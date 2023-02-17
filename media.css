@@ -1,0 +1,24 @@
+@media (max-width:1030px){      
+    /* home                           For Ipad */
+    .text .link{
+        font-size: 25pt;
+        top: 25%;
+        left: 15%;
+    }
+
+}
+/* For Mobile */
+@media (max-width:750px){            
+    .text .link{
+        font-size: 20pt;
+        top: 40%;
+        left: 5%;
+    }
+    .body{
+        height: 500px;
+    }
+    .blur{
+        height: 500px;
+        
+    }
+}
